@@ -1,0 +1,11 @@
+.linkbutton{
+  border-radius: 5px;
+  background-color: rgb(238, 68, 16);
+  font-size: medium;
+  padding: 15px 50px;
+  cursor: pointer;
+}
+.linkbutton:hover {
+  color: rgb(243, 179, 111);
+  background-color: coral;
+}

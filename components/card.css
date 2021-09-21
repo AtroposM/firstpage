@@ -1,0 +1,27 @@
+.card{
+  width: 300px;
+  box-shadow: 3px 3px 5px lightcyan;
+  border-radius: 5px;
+}
+.card-picture {
+  width: 50%;
+  position: absolute;
+}
+
+.card-infos {
+  position: relative;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+
+.card-infos h5 {
+  margin-top: 0;
+}
+
+.group{
+  width: 1200px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

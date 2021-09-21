@@ -1,0 +1,9 @@
+@import 'components/banner.css';
+@import 'components/linkbutton.css';
+@import 'components/footer.css';
+@import 'components/card.css';
+
+body{
+  margin: 0px;
+  color: lightslategray;
+}

@@ -1,0 +1,10 @@
+.footer{
+  background-color: darkgray;
+  background-size: cover;
+  height: 10vh;
+  width: 100vw;
+  display: flex;
+  justify-content: left;
+  color: whitesmoke;
+  margin-bottom: 5px;;
+}
